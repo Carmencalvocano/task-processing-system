@@ -1,0 +1,3 @@
+/mnt/c/Users/Lenovo/OneDrive - UAB/Escritorio/AÑO 6/SEM 2/Proyectos/task-processing-system/core-cpp/build/CMakeFiles/task_system.dir
+/mnt/c/Users/Lenovo/OneDrive - UAB/Escritorio/AÑO 6/SEM 2/Proyectos/task-processing-system/core-cpp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lenovo/OneDrive - UAB/Escritorio/AÑO 6/SEM 2/Proyectos/task-processing-system/core-cpp/build/CMakeFiles/rebuild_cache.dir
