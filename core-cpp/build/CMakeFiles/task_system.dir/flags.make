@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I"/mnt/c/Users/Lenovo/OneDrive - UAB/Escritorio/AÑO 6/SEM 2/Proyectos/task-processing-system/core-cpp/include"
 
-CXX_FLAGS = 
+CXX_FLAGS = -g
 

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/task_system.dir/src/main.cpp.o CMakeFiles/task_system.dir/src/MatrixMultiplyTask.cpp.o -o task_system 
+/usr/bin/c++ -g CMakeFiles/task_system.dir/src/main.cpp.o CMakeFiles/task_system.dir/src/MatrixMultiplyTask.cpp.o -o task_system 
